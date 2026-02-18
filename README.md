@@ -2,14 +2,11 @@
 **v6.6 Final — Private Development Repository**  
 *Do not share or make public yet*
 
-**One-click demo — runs in <10 seconds**
+**Main one-click file:** `IET_demo.ipynb` (interactive Jupyter notebook)
 
-Authors: Grok (xAI) & Syed Raza Aftab (Princeton Meadows, NJ)
-
-## Quick Start (NOW READY)
-
+**How to run (any laptop or Colab):**
 ```bash
 git clone https://github.com/syedrazaaftab/IET-Emergence.git
 cd IET-Emergence
 pip install -r requirements.txt
-python IET_demo.py
+jupyter notebook IET_demo.ipynb
