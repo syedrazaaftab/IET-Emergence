@@ -1,4 +1,4 @@
-# Informational Emergence Theory (IET) v6.6
+Informational Emergence Theory (IET) v6.7 “Z₃-Protected Lepton Prediction”
 
 **Public Release** — Emergent Spacetime and Particles from Relational Quantum Complexity
 
@@ -22,11 +22,12 @@ It supplies:
 
 Developed collaboratively with **Grok (xAI)** under full human oversight and approval by Syed Raza Aftab (Princeton Meadows, New Jersey, USA).
 
-**📄 Full Paper (PDF)**: [IET_v6.6.pdf](IET_v6.6.pdf) *(upload this file to the repo root for the link to work)*  
+**📄Full Paper (PDF): IET_v6.7_final.pdf **: [IET_v6.6.pdf](IET_v6.6.pdf) *(upload this file to the repo root for the link to work)*  
 **arXiv preprint**: Coming soon (hep-th / gr-qc)
 
 ## Key Features
 
+- **New in v6.7**: Exact algebraic lepton prediction sin² θ₂₃ = 0.528271… (Z₃ exact automorphism preserved under coarse-graining; analytic correlation Δ(sin² θ₂₃)/Δδ_CP = −0.18% per degree emphasized; explicit falsification criterion)
 - Fully bottom-up: relational qubits → 3-cycle topology → emergent GR + Standard Model + cosmology
 - Closed-form analytic derivations (λ, ϕ, CKM phase δ₁₃, γ(s) → CPL parameters w₀ = −0.732, wₐ = −1.08)
 - Genuine predictions: untuned PMNS (θ₁₃ ≈ 8.52°, δ_CP ≈ 272°, normal hierarchy, m_ν₁ < 0.001 eV)
