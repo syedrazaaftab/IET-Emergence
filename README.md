@@ -1,4 +1,4 @@
-# Informational Emergence Theory (IET) v6.6 Final
+# Informational Emergence Theory (IET) v6.6
 
 **Public Release** — Emergent Spacetime and Particles from Relational Quantum Complexity
 
