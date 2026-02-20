@@ -3,18 +3,18 @@
 **Two parallel, clearly separated tracks:**
 
 **🔬 Main track (this branch)**  
-Full speculative physics framework v8.4 — Z₃-protected lepton prediction, bottom-up CKM/PMNS, closed-form Einstein correction, 500k-qubit validation, one-click demo.  
+Full speculative physics framework v8.4 — Z₃-protected lepton prediction, bottom-up CKM/PMNS, closed-form Einstein correction, 500k-qubit validation, interactive demo.  
 → [IET_17.pdf](IET_17.pdf) | [Interactive Colab demo](IET_demo.ipynb)
 
 **📊 Computational track (separate branch)**  
-Pure applied-mathematics / network-science testbed — spectral + curvature functionals on sparse graphs, ensemble universality, sensitivity analysis, error bars. No physical claims.  
+Pure applied-mathematics / network-science testbed — spectral + curvature functionals on sparse graphs, ensemble comparisons (ER/BA/WS/RR), weight sensitivity, error bars, full reproducible code. No physical claims.  
 → Switch to branch `computational-v1` → [`computational-testbed/`](https://github.com/syedrazaaftab/IET-Emergence/tree/computational-v1/computational-testbed)
 
-Both tracks are fully public, reproducible, and citable. The computational paper is the safe foundation for the speculative work.
+Both tracks are fully public and reproducible. The computational package serves as the safe, citable foundation for the speculative physics work.
 
 ---
 
-(Your original ambitious README continues here — unchanged)
+(Your original ambitious IET content continues below — unchanged)
 
 # Informational Emergence Theory (IET) v8.4 Final
 
