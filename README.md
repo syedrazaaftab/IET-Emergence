@@ -1,3 +1,21 @@
+# Informational Emergence Theory (IET) Repository
+
+**Two parallel, clearly separated tracks:**
+
+**🔬 Main track (this branch)**  
+Full speculative physics framework v8.4 — Z₃-protected lepton prediction, bottom-up CKM/PMNS, closed-form Einstein correction, 500k-qubit validation, one-click demo.  
+→ [IET_17.pdf](IET_17.pdf) | [Interactive Colab demo](IET_demo.ipynb)
+
+**📊 Computational track (separate branch)**  
+Pure applied-mathematics / network-science testbed — spectral + curvature functionals on sparse graphs, ensemble universality, sensitivity analysis, error bars. No physical claims.  
+→ Switch to branch `computational-v1` → [`computational-testbed/`](https://github.com/syedrazaaftab/IET-Emergence/tree/computational-v1/computational-testbed)
+
+Both tracks are fully public, reproducible, and citable. The computational paper is the safe foundation for the speculative work.
+
+---
+
+(Your original ambitious README continues here — unchanged)
+
 # Informational Emergence Theory (IET) v8.4 Final
 
 **Emergent Spacetime and Particles from Relational Quantum Complexity**
