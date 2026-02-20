@@ -26,4 +26,4 @@ python notebooks/exploratory.py
 
 The microscopic dynamics and complexity functional used in this work build on the computational testbed developed in the companion paper [Aftab, 2026b], available at https://github.com/syedrazaaftab/IET-Emergence/tree/computational-v1/computational-testbed.
 
-The microscopic dynamics and complexity functional used in this work build on the computational testbed developed in the companion paper [Aftab, 2026b], available at https://github.com/syedrazaaftab/IET-Emergence/tree/computational-v1/computational-testbed.
+
